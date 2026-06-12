@@ -1,0 +1,2 @@
+# jisadwaepig-privacy
+지사돼 앱 개인정보처리방침 및 고객지원 페이지
