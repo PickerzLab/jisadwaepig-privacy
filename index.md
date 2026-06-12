@@ -55,4 +55,4 @@
 
 개인정보처리방침에 관한 문의는 아래 이메일로 연락해 주세요.
 
-**✉ 이메일:** [pickerzlab@gmail.com](mailto:pickerzlab@gmail.com)
+📧 **이메일:** [pickerzlab@gmail.com](mailto:pickerzlab@gmail.com)
